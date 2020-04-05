@@ -1,6 +1,6 @@
 # Homework Exercises
 
-[05 Third-Party APIs: Work Day Scheduler](https://timansy.github.io/05_homework/docs/05/) | [Project Description](https://timansy.github.io/05_homework/docs/05/ADJ_LOG.html) | [Instructions](https://timansy.github.io/05_homework/docs/05/README.html)  
+[05 Third-Party APIs: Work Day Scheduler](https://timansy.github.io/05_homework/docs/05/index.html) | [Project Description](https://timansy.github.io/05_homework/docs/05/ADJ_LOG.html) | [Instructions](https://timansy.github.io/05_homework/docs/05/README.html)  
 
 
 ## 05 Third-Party APIs: Work Day Scheduler

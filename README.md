@@ -1,26 +1,23 @@
-# Homework Exercises
+# 05 Third-Party APIs: Work Day Scheduler
 
-[05 Third-Party APIs: Work Day Scheduler](https://timansy.github.io/05_homework/Docs/05/index.html) | [Project Description](https://timansy.github.io/05_homework/docs/05/ADJ_LOG.html) | [Instructions](https://timansy.github.io/05_homework/docs/05/README.html)  
+[05 Third-Party APIs: Work Day Scheduler](https://timansy.github.io/05_homework/Docs/05/index.html)
 
+## Object
 
-## 05 Third-Party APIs: Work Day Scheduler
+The object for this project was to _create a simple calendar application that allows the user to save events for each hour of the day._
 
-Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+In order to do this, I needed to do a bit of brushing up on the mandated Moment.JS javascript library. I also needed to ensure that I was pushing content using jquery - which I have become quite familiar.
 
-You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
+## Original User Story
 
-## User Story
-
-```
-AS AN employee with a busy schedule
+```AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 ```
 
-## Acceptance Criteria
+## Given Acceptance Criteria
 
-```
-GIVEN I am using a daily planner to create a schedule
+```GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
 WHEN I scroll down
@@ -36,8 +33,6 @@ THEN the saved events persist
 ```
 
 The following animation demonstrates the application functionality:
-
-![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
 
 ## Review
 

@@ -6,6 +6,10 @@ textarea {
      background-color:lightsalmon;
  }
 
+ .doing {
+    background-color:lightyellow;
+}
+
  .undone{
      background-color: lightgreen;
  }

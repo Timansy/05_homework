@@ -44,10 +44,15 @@ $(document).ready(function () {
         </tr>
     `;
         $("#schedule").append(row);
-        if (mymoment < moment()) {
-            $(`#hour_${i}_row`).addClass("done").removeClass("undone");
+
+        console.log(moment().isSame(mymoment,'hour'));
+
+        if (moment().isSame(mymoment,'hour')){
+            $(`#hour_${i}_row`).removeClass("done").removeClass("undone").addClass("doing");
+        } else if (mymoment < moment()) {
+            $(`#hour_${i}_row`).addClass("done").removeClass("undone").removeClass("doing");
         } else {
-            $(`#hour_${i}_row`).removeClass("done").addClass("undone");
+            $(`#hour_${i}_row`).removeClass("done").addClass("undone").removeClass("doing");
         }
     }
 

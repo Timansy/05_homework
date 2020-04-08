@@ -10,14 +10,16 @@ In order to do this, I needed to do a bit of brushing up on the mandated Moment.
 
 ## Original User Story
 
-```AS AN employee with a busy schedule
+```
+AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 ```
 
 ## Given Acceptance Criteria
 
-```GIVEN I am using a daily planner to create a schedule
+```
+GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
 WHEN I scroll down
